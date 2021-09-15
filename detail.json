@@ -1,0 +1,25 @@
+"Details":{
+"Id":123,
+"IsActive":"false",
+"Balance":"$3456",
+"Age":55,
+"Name":"chiranjeevi",
+"Gender":"male",
+"Gmail":"chiranjeevi@gmail.com",
+"Phone":"(+91) 9346105859",
+"Tags":{
+volutery,
+venium
+}
+"friends":[
+{
+"id":01,
+"name":"mega"
+},
+{
+"id":02,
+"name":"chiru"
+}
+],
+"fruit":"strawberry"
+}

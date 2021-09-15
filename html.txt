@@ -1,0 +1,16 @@
+<- coments->
+display:block;inline <span><label><a><b> to block-level element <div><p><img>
+Q) 
+<!DOCTYPE html>
+<html>
+<head>
+<title>home</title>
+</head>
+<body>
+<h2><h2>
+<p></p>
+</body>
+</html>
+Q)<ol> orederlist(number r alphabetic)
+<ul>(bulleted format)
+<dl>

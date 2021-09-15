@@ -1,0 +1,4 @@
+teams
+outlooks-- internal email
+vpn--remote desktop -- virtual sys.(dev n qa )
+outlook
